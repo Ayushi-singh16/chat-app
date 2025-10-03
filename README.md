@@ -1,8 +1,13 @@
 Intern Name: Ayushi Singh
+
 Intern ID: CT04DY2847
+
 Company: CodTech IT Private Limited
+
 Domain: Full Stack Development
+
 Duration: 1 Month
+
 Mentor: Neela Santosh
 
 Project Description:
@@ -13,3 +18,6 @@ The frontend was developed using React.js, providing a responsive and user-frien
 The application emphasizes real-time messaging, database integration, and full-stack development practices. Users can send, receive, and view messages instantly while the backend manages broadcasting messages to all connected clients and storing chat history.
 
 This internship helped me enhance my skills in React.js, Node.js, MongoDB, and WebSocket-based real-time applications, while gaining hands-on experience in building interactive, data-driven full-stack applications. The project also demonstrates the ability to work under guidance, follow best coding practices, and deliver a functional solution within the one-month internship duration.
+
+output-
+![Image](https://github.com/user-attachments/assets/3aea7e74-3800-4a47-b9df-243eaca7c4a8)
